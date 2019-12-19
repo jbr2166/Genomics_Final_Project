@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: harmony
+Version: 0.1
+Summary: Harmony is a unified framework for data visualization, analysis and interpretation of scRNA-seq data measured across discrete time points
+Home-page: https://github.com/manusetty/harmony
+Author: Manu Setty
+Author-email: manu.talanki@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

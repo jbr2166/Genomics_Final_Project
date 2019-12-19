@@ -1,0 +1,17 @@
+numpy>=1.14.2
+pandas>=0.22.0
+scipy>=1.0.1
+networkx>=2.1
+scikit-learn
+joblib
+fcsparser>=0.1.2
+phenograph
+tables>=3.4.2
+Cython
+cmake
+MulticoreTSNE
+matplotlib>=2.2.2
+seaborn>=0.8.1
+tzlocal
+rpy2>=3.0.2
+scanpy

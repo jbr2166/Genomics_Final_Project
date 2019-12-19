@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: palantir
+Version: 0.2.1
+Summary: Palantir for modeling continuous cell state and cell fate choices in single cell data
+Home-page: https://github.com/dpeerlab/palantir
+Author: Manu Setty
+Author-email: manu.talanki@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
