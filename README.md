@@ -7,6 +7,7 @@ Results: Our team aimed to recreate this analysis via scRNA-seq analysis. By ana
 The files included in this repository were used to cluster the entire given dataset provided by the authors by cell type or time point, separate the data based on time points and cluster the time points according to cell types accordingly, compare embryonic and extra embryonic cell types across different time points via a cluster analysis, and implement the aforementioned Harmony and Palantir algorithms to observe gene expression trends as well as infer cell fate.
 
 Packages included are from authors of paper. Links to packages are included here:
+
 Harmony 0.1:https://github.com/dpeerlab/Harmony
 
 Palantir:https://github.com/dpeerlab/Palantir
